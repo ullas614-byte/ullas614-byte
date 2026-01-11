@@ -1,7 +1,7 @@
 # About Me
 
 
-**ullas614-byte/ullas614-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I’m Ullas R G, an aspiring Full Stack Developer (MERN Stack).
 
 Here are some ideas to get you started:
 
